@@ -1,0 +1,14 @@
+# Apps by Jihye Kim
+
+> Independent iOS developer Jihye Kim makes small, focused iPhone apps. All are free on the App Store.
+
+## Apps
+
+- [Butto](https://wendoei.github.io/butto/): Stay close to friends who live in other countries and time zones. Each friend's card shows their local time, current weather and local news headlines (translated on your phone). Instead of chatting, you send one-tap emojis that arrive as notifications and are not kept as a history. Also: send a news article to a friend with an emoji, Flipside (a photo or 5-second video on the back of your card), widgets, and adding friends by tapping phones or scanning a QR code. Good for people living or studying abroad, long-distance friends and couples, and friends made while travelling. App Store: https://apps.apple.com/app/butto/id6761648901
+- [Lettrd](https://wendoei.github.io/lettrd/): Vincent van Gogh's complete correspondence, 907 letters in English, delivered one at a time at the pace he wrote them, with the paintings he describes, a timeline of his life, and private notes. No account, no feed. App Store: https://apps.apple.com/app/lettrd/id6761928111
+- [ChangeHero](https://wendoei.github.io/changehero/): A level-based game for practising paying with coins and notes and calculating change in different currencies. For travellers, students, cashiers and anyone new to physical money. App Store: https://apps.apple.com/app/changehero/id6749336103
+- [NiftyConverter](https://wendoei.github.io/niftyconverter/): A simple currency converter with up-to-date exchange rates. App Store: https://apps.apple.com/app/niftyconverter/id6602884712
+
+## Developer
+
+- [All apps on the App Store](https://apps.apple.com/us/developer/jihye-kim/id1760867780)

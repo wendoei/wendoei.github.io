@@ -1,0 +1,23 @@
+# 검색엔진과 AI 크롤러 모두 허용 — 앱 소개가 검색·AI 답변에 쓰일 수 있게
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://wendoei.github.io/sitemap.xml
